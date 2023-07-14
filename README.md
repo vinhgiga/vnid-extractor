@@ -47,12 +47,12 @@ $ pip install -r requirements.txt
 Run app:
 
 ```powershell
-$ python main.py
+$ python .\src\main.py
 ```
 
 ## Sources
 
-1. [A technical view of FVI: End-to-end Vietnamese ID card OCR](https://fpt.ai/technical-view-fvi-end-end-vietnamese-id-card-ocr)
-2. [Trích xuất thông tin từ chứng minh thư](https://viblo.asia/p/trich-xuat-thong-tin-tu-chung-minh-thu-bJzKmaRwK9N)
+1. [Trích xuất thông tin từ chứng minh thư](https://viblo.asia/p/trich-xuat-thong-tin-tu-chung-minh-thu-bJzKmaRwK9N)
+2. [A technical view of FVI: End-to-end Vietnamese ID card OCR](https://fpt.ai/technical-view-fvi-end-end-vietnamese-id-card-ocr)
 3. [TensorFlow 2 Object Detection API tutorial](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/)
 4. [VietOCR repository](https://github.com/pbcquoc/vietocr)
